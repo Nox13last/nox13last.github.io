@@ -9,12 +9,12 @@ This is your reminder that *tubes* are also shapes. Here's The Stigma Dreamscape
 
 There's this awesome design in the skybox that you see on the Duty Banner, and it looks like the loading screen to *Phantasy Star Online II* or some shit.
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_1.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_1.jpg" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_1.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_1.jpg" alt="Image" width="600"></a></center>
                                                                                                           
 They pulled off the effect extremely well, but it's just a disc. Not even any parallax.                   
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_2.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_2.jpg" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_2.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_2.jpg" alt="Image" width="600"></a></center>
                                                                                                           
 A tiny bit of layering, but at this distance the player is from the design, it doesn't do anything for the illusion.  
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_3.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_3.png" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_3.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Stigma_3.png" alt="Image" width="600"></a></center>
 
 

@@ -8,10 +8,10 @@ comments: enabled
 (Originally posted 19 February 2022)
 
 This cube seems to lack a floor and ceiling. 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_1.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_1.png" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_1.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_1.png" alt="Image" width="600"></a></center>
 
 Also, it can be seen from the arena (circled in yellow). I wasn't sure if this was because I had taken the camera down there before.  
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_2.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_2.png" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_2.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Eden_Res_2.png" alt="Image" width="600"></a></center>
 
 ## Discord comments
 > K: It must have a render trigger to turn it on, but not one to turn it back off.  

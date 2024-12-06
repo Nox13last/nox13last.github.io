@@ -8,6 +8,6 @@ comments: enabled
 (This was originally posted on 16 April 2023)  
 
 Euphrosyne: Orb County USA.  
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Euphro_1.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Euphro_1.jpg" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Euphro_1.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Euphro_1.jpg" alt="Image" width="600"></a></center>
 
 

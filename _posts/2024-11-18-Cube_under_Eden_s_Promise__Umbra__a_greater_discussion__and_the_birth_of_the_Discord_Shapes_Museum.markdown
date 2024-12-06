@@ -7,7 +7,7 @@ comments: enabled
 ---
 A cube under Eden's Promise: Umbra.
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_1.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_1.png" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_1.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_1.png" alt="Image" width="600"></a></center>
 
 ## Discord discussion:
 *(Frankly, this steals the page. 'T' is a well-known friend of science. In my Warframe videos, they're credited as 'FreelanceTentacleMonster')*  
@@ -16,7 +16,7 @@ A cube under Eden's Promise: Umbra.
 > Me: If I had to guess, they're either Dev Cubes (objects with programming attached to them),...  
 > Me: ...or (like Source Engine games), they're things that entities are stored in because the engine would break if those things were naked in the void.  
 In this example (*The Beginner's Guide*), the book is a host for Davey commentating over the game (a sound emitter and a bunch of logic entities). The Source Engine needs all entities to be "inside the map", or things go wrong, because the compiler can no longer know what is the "inside" of the map and what is "outside". It's a submarine underwater, except the water is void (leading to the editor nomenclature: "leak"): https://developer.valvesoftware.com/wiki/Leak  
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_2_eg.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_2_eg.png" width="600"></a></center> 
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_2_eg.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_2_eg.png" alt="Image" width="600"></a></center> 
 
 > Me: I know from empirical testing that *Final Fantasy XIV* does not, at least, allow the player to move in a way that would cause void to be underneath them. If the player were to get to that point (such as using in-game furniture to escape, walking out on it, and then deleting it from underneath them), they become trapped in place.  
 > Me: With all of that in mind, I would guess that the cubes are just for storing map circuitry. But I have neither the resources nor the domestic insight to back up the assertion.  
@@ -24,7 +24,7 @@ In this example (*The Beginner's Guide*), the book is a host for Davey commentat
 > *(30 minutes pass)*  
 > Me: Now to learn how to operate Blender in *any way at all*. Because I don't even know how to operate the camera.  
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_3_eg.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_3_eg.png" width="600"></a></center>  
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_3_eg.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Edens_Pro_3_eg.png" alt="Image" width="600"></a></center>  
 > Me: (Here's the collision map for Limsa Lominsa. The cylinder near the middle is to stop people from climbing up the Aetheryte.)  
 > Me (now rambling): Blender was designed by assholes.  
 > Me: *Dwarf Fortress 2014* players would look at this and say "a bit much".  

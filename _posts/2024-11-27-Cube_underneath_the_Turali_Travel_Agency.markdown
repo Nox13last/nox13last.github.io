@@ -11,5 +11,5 @@ Hyperborea is down following the big slew of updates recently, so I can't see if
 
 If you see me there, turn around - I'm there on Science!
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1732741447042.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1732741447042.jpg" width="600"></a></center>
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1732741447042.jpg"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1732741447042.jpg" alt="Image" width="600"></a></center>
 

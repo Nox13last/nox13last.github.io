@@ -9,14 +9,14 @@ comments: enabled
 
 I have an auto-login plugin. And it seems to be contraindicating with TitleEdit (the plugin that gives me different title screens).  
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_1.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_1.png" width="600"></a></center>  
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_1.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_1.png" alt="Image" width="600"></a></center>  
 This title screen is of Sigmascape V1.0 (the Phantom Train). The camera appears to have a corrupted heading (it is facing backward, instead of at the train, as the title demands). The gridline overlay isn't unusual - the auto-login requests the DC, then the server, then the character slot. The gridline is what is presented on the DC select.
 
 No. What I'm interested in is....  
 \**squint*\*  
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_2.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_2.png" width="600"></a></center>  
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_2.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_2.png" alt="Image" width="600"></a></center>  
 
 **o/**  
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_3.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_3.png" width="600"></a></center>  
+<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_3.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/Title_3.png" alt="Image" width="600"></a></center>  
 
 
