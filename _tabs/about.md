@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 **This is going to be slow-going. Motivation doesn’t come often, and I barely know how to use Github.**
-___
+---
 # __Welcome!__
 
 Welcome to the Museum of **Video Game Shape Research and Esoterica** (hereafter referred to as **the Shapes Museum**).
