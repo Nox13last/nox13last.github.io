@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Kill me."
+date:   2024-11-15 09:31:00 +0000
+categories: meta
+comments: true
+---
+I have been trying for like four hours to get [a theme](https://github.com/pages-themes/hacker) working through remote-themes, and it just won't. It's 9:30am and I haven't slept yet, and I don't want to use the default-ass Minima theme because I am a man of culture and sophistication, goddammit.
+
+Screw it, I'll be back, and hopefully I lose the drive to do it later.
+
+I'll have to remember to obliterate the commit history at some point.

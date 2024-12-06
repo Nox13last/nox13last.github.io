@@ -1,0 +1,14 @@
+---
+title: "Dark mode"
+layout: post
+date: 2024-12-06 01:39:59
+categories: meta
+comments: enabled
+---
+Web design is my fucking passion. I edited three CSS values, and am therefore Hydaelyn's gift to design.  
+
+Unfortunately, it seems like introducing a Jekyll skin is less "add the skin and then admire the skin" and more "I hope you built the website FROM the skin. What? You want to change your mind later? lmao xd"  
+
+At least this won't bleed your eyes now. I'll have to have another think about how to make the skin less shite later. Maybe rip the posts and post attachments, rebuild the website around the theme, and repopulate the content. But I'm screaming internally at the idea because it's like 1:40am.
+
+
