@@ -1,7 +1,8 @@
+---
 title: The Tools of My Trade
 date: 2024-12-07 3:36:00 +0000
 categories: [ffxiv]
-tags: [info]     # TAG names should always be lowercase
+tags: [info]
 toc: true
 comments: true
 ---
