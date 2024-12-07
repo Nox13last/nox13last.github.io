@@ -58,7 +58,7 @@ This is __not__ a cheating implement. This will not let you target things that a
 ### Splatoon  
 **Developer:** NightmareXIV  
 **Repo:** `https://love.puni.sh/ment.json`  
-~Splatoon is a third-person shooter series by Nintendo that follows the vivacious and rebellious Inkl--~ No, wait. Wrong one. Sorry.  
+~~Splatoon is a third-person shooter series by Nintendo that follows the vivacious and rebellious Inkl--~~ No, wait. Wrong one. Sorry.  
 Splatoon is a very powerful "waymarking" plugin. Powerful enough that I only use about 30% of what it offers, and mechanically know even less than that.. If you've read some of the articles here, you may have seen some red circles, or yellow names, or red/yellow lines. Splatoon is responsible for that and more.  
 Located at the heart of it is its Layouts system. If you want to keep a consistent eye on anything that shows up, you can add it to the list. Suppose that you're a Gatherer, and you know where you'll be tromping about. You can either save Waymarks, or keep a Layout that designates the names of the nodes, have that layout draw a line from you to the node, ring that node, and only do this if you're a Disciple of the Land.  
 
