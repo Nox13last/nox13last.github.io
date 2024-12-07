@@ -25,7 +25,7 @@ I subscribe because I want to enjoy the game. But I refuse to be excluded becaus
 That's quite enough proselytising. That's quite enough backstory. You're here for tools and knowledge. Hopefully. Why *are* you here?
 
 ### XIVLauncher & Dalamud  
-**Location:** [Goatcorp](https://goatcorp.github.io/)
+**Location:** [Goatcorp](https://goatcorp.github.io/)  
 It is little surprise to anyone that the "stock" launcher (the one that comes with the game) is actually bad. It has to load assets (images, news items, server status) before you're allowed to attempt to login. Also, it doesn't save your credentials or log you in automatically. Also-also, updates are glacial. That all sucks. Also³, it's generally clunky to look at or work with.  
 
 Enter the XIVLauncher. I'll just steal their list of features.
@@ -84,7 +84,7 @@ As an aside, I save the positions of every cube or funny shape I detect in this 
 ### QoL Bar
 **Developer:** UnknownX7  
 **Repo:** (Included with Dalamud.)  
-QoL Bar is less an implement for shenanigans, and more just a good tool to use. The game is restricted to ten hotbars (excluding things like Pet Hotbars), and those hotbars are themselves restricted to only twelve items each. QoL Bars allows you to make bars of arbitrary size and with arbitrary icons (not just those in the game's Macro Icon Picker, or through `/micon (thing) (category)`.  
+QoL Bar is less an implement for shenanigans, and more just a good tool to use. The game is restricted to ten hotbars (excluding things like Pet Hotbars), and those hotbars are themselves restricted to only twelve items each. QoL Bars allows you to make bars of arbitrary size and with arbitrary icons (not just those in the game's Macro Icon Picker, or through `/micon (thing) (category)`.)  
 It supports icons or text (for a traditional menu), and the bar buttons themselves support any command that the game uses in macros. It can also intercept keypresses. For example, the command to use my Freecam is in here somewhere, but I can assign a hotkey to it.  
 ![Cammy](/about_qolbar_1.png){: width="600" }
 _The hotkey means I can quickly use and un-use it. It is, mechanically, a button macro._
