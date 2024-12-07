@@ -15,5 +15,5 @@ I doubt the process was quite as intensive as image generation, so in a way, I'm
 This is the longest thing I've written for the submission form, and as a proof of concept, it even comes with a stupid picture that's been on my hard drive for decades.
 I look forward to actual publications soon.
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1731784364990.png"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1731784364990.png" alt="Image" width="600"></a></center>
+![Image](/1731784364990.png){: width="600" }
 

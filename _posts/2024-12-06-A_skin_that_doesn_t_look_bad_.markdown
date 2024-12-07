@@ -14,7 +14,8 @@ I hope you like this skin, dear reader. You're going to fucking get used to it, 
 
 Next content update will be about the tools I use. And maybe I'll start publishing about my loathe - <i>Warframe.</i> Look forward to it.
 
-<center><a href="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/gun.webp"><img src="https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/gun.webp" alt="Image" width="200"></a></center>
+![Look forward to it.](/gun.webp){: width="600" }
+_Do it now._
 
 <b>I'm not asking.</b>
 
