@@ -43,7 +43,7 @@ The shape *normally* exists along one axis, usually below the center of the map,
 
 ## Author's note
 
-Yes. This is insanely against the TOS. and I'm sure Squeenix would be mad at me if they found this. But I am ascribing to the trapdoor excuse that Yoshi-P provides: If you *are* going to contravene the rules, do not damage the experience for other players. No grief, no unfair advantages. No reason for the Square Special Task Force a reason to get mad. 
+Yes. This is insanely against the TOS. and I'm sure Squeenix would be mad at me if they found this. But I am ascribing to the trapdoor excuse that Yoshi-P provides: If you *are* going to contravene the rules, do not damage the experience for other players. No grief, no unfair advantages. No need to give the Square Special Task Force a reason to get mad. 
 I hope they *won't* be mad. This is a project of weird, arcane passion and genuine respect for the game. I am a Mentor and I wear the crown honestly. If you want to reach me in game:
 
 
