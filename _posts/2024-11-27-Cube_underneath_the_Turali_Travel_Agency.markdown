@@ -12,5 +12,5 @@ Hyperborea is down following the big slew of updates recently, so I can't see if
 
 If you see me there, turn around - I'm there on Science!
 
-![Image](/https://raw.githubusercontent.com/Nox13last/nox13last.github.io/refs/heads/main/_uploads/1732741447042.jpg){: width="600" }
+![Image](/1732741447042.jpg){: width="600" }
 
