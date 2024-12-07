@@ -3,7 +3,7 @@ title: "Cube and Cutscene at Alphascape V3.0"
 layout: post
 date: 2024-11-18 02:06:19
 categories: ffxiv
-tags: [cube, cutscene]
+tags: [cube, cutscene room]
 comments: enabled
 ---
 > This was originally posted 18 March 2023
