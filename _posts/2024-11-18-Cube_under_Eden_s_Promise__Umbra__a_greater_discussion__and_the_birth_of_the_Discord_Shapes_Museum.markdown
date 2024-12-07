@@ -8,7 +8,7 @@ comments: enabled
 ---
 A cube under Eden's Promise: Umbra.
 
-![Image](/Edens_Pro_1.png){: width="600" }
+![Image](/Edens_Pro_1.PNG){: width="600" }
 
 ## Discord discussion:
 *(Frankly, this steals the page. 'T' is a well-known friend of science. In my Warframe videos, they're credited as 'FreelanceTentacleMonster')*  
