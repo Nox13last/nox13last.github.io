@@ -4,6 +4,8 @@ layout: post
 date: 2024-11-18 00:26:54
 categories: ffxiv
 comments: enabled
+description: "Shapes. What are they even?"
+pin: true
 ---
 # __Shapes!__
 

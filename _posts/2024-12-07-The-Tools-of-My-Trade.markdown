@@ -4,6 +4,8 @@ date: 2024-12-07 3:36:00 +0000
 categories: [ffxiv]
 tags: [info]
 toc: true
+description: How do I do what it is that I do?
+pin: true
 comments: true
 ---
 ## Foreword  
