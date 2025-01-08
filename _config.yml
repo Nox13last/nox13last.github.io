@@ -108,14 +108,6 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: false # show or hide edit this page link
-gh_edit_link_text: "Edit this article on GitHub"
-gh_edit_repository: "https://github.com/Nox13last/nox13last.github.io" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
-
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: giscus # [disqus | utterances | giscus]
@@ -233,4 +225,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-   
