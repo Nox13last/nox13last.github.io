@@ -19,6 +19,6 @@ The whole thing feels vestigial.
 ![Image](/JC_4.png){: width="600" }
 _Apologies for the laser show. I can't tell Splatoon what **not** to see._
 
-And for some reason, there are six entities around the central cactuar statue. Maybe they're fireworks pots for if you win the jackpot? I wouldn't know.
+And for some reason, there are six entities around the central cactuar statue. Maybe they're fireworks pots for if you win the jackpot? I wouldn't know. :')
 
 
