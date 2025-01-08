@@ -1,5 +1,5 @@
 ---
-title: "Jumbo Cactuar Wheel"
+title: "Jumbo Cactpot Wheel"
 layout: post
 date: 2025-01-08 19:45:21
 categories: ffxiv
