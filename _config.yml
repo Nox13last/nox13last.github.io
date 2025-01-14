@@ -62,7 +62,7 @@ analytics:
   google:
     id: G-92DN5QZ5YJ
   goatcounter:
-    id: noxedwin
+    id: https://noxedwin.goatcounter.com/count
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
