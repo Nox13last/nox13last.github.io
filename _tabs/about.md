@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+<<<<<<< HEAD
 **This is going to be slow-going. Motivation doesn’t come often, and I barely know how to use Github.**
 <hr>
 # __Welcome!__
@@ -54,3 +55,8 @@ I hope they *won't* be mad. This is a project of weird, arcane passion and genui
 ## Afterword
 It's nice to upload something through my new form that isn't me bitching about how uncooperative Jekyll was. Gues they should'a called it 'Hyde', amirite? *\*canned laughter\**
 (Also, my boyfriend clocked off early, so I'm left to hyperfixate, and I might as well RP 'being productive'.)
+=======
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.2.4
