@@ -51,9 +51,9 @@ There are no actors in this scene (that Splatoon can see), and the chairs at the
 ![Image](/Final_Day_Ragnarok_4.jpg){: width="600" }
 _100% bridge. 0% bnnuys._
 
-There's also *this* little console which you don't get to see up close. I think it's the projector that shows the helms-bunnies.
+There's also *this* little console which you don't get to see up close. I think it's the projector that the helms-bunnies use to look at Ultima Thule.
 
-![Image](/Final_Day_Ragnarok_4.jpg){: width="600" }
+![Image](/Final_Day_Ragnarok_5.jpg){: width="600" }
 _Not quite the cubes I were thinking of._
 
 Looks almost like a Mahjong Solitaire set. Except the tiles suck and don't seem to be stacked on each other (which is the principal difficulty of that game).
