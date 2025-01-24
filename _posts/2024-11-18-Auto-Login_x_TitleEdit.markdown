@@ -16,10 +16,10 @@ This title screen is of Sigmascape V1.0 (the Phantom Train). The camera appears 
 
 No. What I'm interested in is....  
   
-![Image](/Title_2.png){: width="600" }  
+![Image](/Title_2.png){: width="200" }
 _\*squint\*_
 
-![Image](/Title_3.png){: width="600" }
+![Image](/Title_2.png){: width="600" }
 _o/_
 
 
