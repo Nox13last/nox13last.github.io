@@ -14,7 +14,7 @@ Circle is a shape, especially when concentric (one might even say it's 200% shap
 ![Image](/Hells_Kier_2.png){: width="600" }
 
 For some reason, rather than have two areas that the party is transported between (for example, the [fight against Nabbles in the Void](https://nox13last.github.io/posts/The_Chrysalis.html)), the inner geometry is just culled out. All of it. And that seems like it would be nightmarishly inefficient.  
-![Image](/Hells_Kier_3.png){: width="600" }  
+![Image](/Hells_Kier_3.png){: width="600" }
 _Left: Suzaku's realm. Right: Real-world_
 
 

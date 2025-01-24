@@ -29,7 +29,9 @@ A Roland wandered in, prattling some idle line. The under-Roland is now untarget
 I can now speak with the sneaky Roland. He doesn't say anything unusual.  
 ![Image](/GS_5.png){: width="600" }
 
-(This was originally posted 9 September 2024)  
+> (This was originally posted 9 September 2024)  
+{: .prompt-info }
+
 Sneaky Roland under the upstairs bar area.  
 ![Image](/GS_6.png){: width="600" }  
 There is also an active Roland _at_ the bar. So I'm not sure what this one is intended to achieve.

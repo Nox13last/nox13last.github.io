@@ -16,7 +16,7 @@ Earlier in the series, the Warrior of Light and their retinue of Garlond Ironwor
 *This* battle shows that it was your own interference, here and now, that breaks the spell. You're busy fighting enemies, but you can see this cutscene, frozen, in the background.  
 
 Even if you don't get to see the encounter, the cutscene uses you as an actor.  
-![Image](/Alex_SC_1.jpg){: width="600" }  
+![Image](/Alex_SC_1.jpg){: width="600" }
 _The "me" in this image is that actor. It uses whatever the player has on at the time of this Raid._  
 
 You are pulled back to the present. During the transition, you can see yourself and your retinue (again) glare in surprise and dive out of the way of the attack.  

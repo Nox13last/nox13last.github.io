@@ -10,7 +10,7 @@ comments: enabled
 {: .prompt-info }
 
 Next up for unused Shapes, we have Cutter's Cry. Pictured is the overall map. Thick blue lines represent the route the player takes on foot. Thin ones represent teleporters.  
-![Image](/Cutters_1.png){: width="600" }  
+![Image](/Cutters_1.png){: width="600" }
 _That's a lot of unused space._
 
 Entire rooms. Like that one at the top left. Big orb. And its only purpose seems to be for you to see about 5% of it through holes in the ceiling.  

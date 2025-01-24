@@ -12,5 +12,6 @@ And here's something we saw long long ago. World of Darkness. Underneath the map
 And a little to the side of it is an inscrutable black box that fades in when the camera approaches it. It is the mini-arena for the warriors who become sequestered throughout the course of the Cerberus Battle.  
 ![Image](/WOD_2.png){: width="600" }  
 ![Image](/WOD_3.png){: width="600" }
+_It's even more horrid devoid of context._
 
 

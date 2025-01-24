@@ -21,6 +21,6 @@ Oh. And a dev cube for good measure. Stored at exactly 100,100,-300.
 
 
 The skybox texture is incredibly vivid. It scrolls very quickly and pulses so luridly that it's difficult to look at. I presume it has to be so garish as to be visible through the stained-glass windows.  
-![Image](/Aspho_4_5.png){: width="600" }  
+![Image](/Aspho_4_5.png){: width="600" }
 _FIREBLU-ass eyesore._
 

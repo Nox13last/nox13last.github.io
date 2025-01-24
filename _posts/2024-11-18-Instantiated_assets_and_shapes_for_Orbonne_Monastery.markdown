@@ -55,8 +55,8 @@ Likewise, I cannot get the first phase of the High Seraph's arena because it's a
 There's nothing inside of the lower orb.  
 ![Image](/Orbonne_13.png){: width="600" } 
 
-Nothing, except *two* Cubes!  
-![Image](/Orbonne_14.png){: width="600" }  
+![Image](/Orbonne_14.png){: width="600" }
+_Nothing, except **two** Cubes!_
 
 Pursuant to my hypothesis, the skybox changes twice throughout this fight. Once when the High Seraph begins her onslaught and the Zodiac Braves shield the players (and are crushed by the force of the attack), and once again when Ramza comes in to deflect the final hit. The entire platform gives way, and the players fall into the ruined Orb at the top. 
 
