@@ -6,7 +6,7 @@ categories: ffxiv
 tags: [scenery]
 comments: enabled
 ---
-> This was originally discovered 14 March 2023. It was then intiially uploaded 18 November 2023.
+> This was originally discovered 14 March 2023. It was then uploaded 18 November 2023.
 {: .prompt-info }
 
 I am at The Final Day, and I am a little concerned.  
