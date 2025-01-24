@@ -1,7 +1,7 @@
 ---
 title: "Scenery of The Final Day"
 layout: post
-date: 2025-01-24 08:51:30
+date: 2024-11-18 01:48:45
 categories: ffxiv
 tags: [scenery]
 comments: enabled
@@ -29,7 +29,7 @@ And a close-up of Zenos-Shinryu.
 I'm bothered that I can't find *the Ragnarok*.  
 (Note: These pictures were taken at the end of Duty. This was my 2000th Instance! I earned the 'Lifer' Achievement.)
 
-> Update! Ragnarok!
+> Update! Ragnarok! 24 January 2025
 {: .prompt-info }
 
 I've done it. The _Ragnarok_ has been found and, barring Hyperborea breaking the script, I don't know why I was unable to see it in the wild, considering it's where everything else tends to be - 500 units below the ground.
