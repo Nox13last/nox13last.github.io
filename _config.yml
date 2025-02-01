@@ -116,7 +116,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: Nox13last/nox13last.github.io
-    repo_id: R_kgDONZ-0Jw
+    repo_id: "R_kgDONZ-0Jw"
     category: General
     category_id: DIC_kwDONZ-0J84Ck_C8
     mapping: title # optional, default to 'pathname'
