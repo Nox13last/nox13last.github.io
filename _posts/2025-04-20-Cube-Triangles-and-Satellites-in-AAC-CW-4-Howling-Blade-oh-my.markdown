@@ -10,7 +10,8 @@ First of all, for this arena, let's look at something that isn't a cube. Cubes a
 ![Image](/AAC_CW4_1.jpg){: width="600" }
 _Space junk._
 
-But here's the crazy part. This cube is, in theory, visible to the naked eye! All you'd have to do is look up, and you would see it like a star! They didn't even cull it out. Unfortunately, the player is physically unable to look straight up. There aren't many places for cubes to be hidden here. so hiding it in an enforced blind-spot is almost clever enough to be devious. Good stuff. I would hidden it in one of the air generator things.  
+And back to our regularly scheduled cube.  
+But here's the crazy part. This cube is, in theory, visible to the naked eye! All you'd have to do is look up, and you would see it like a star! They didn't even cull it out. Unfortunately, the player is physically unable to look straight up. There aren't many places for cubes to be hidden here. so hiding it in an enforced blind-spot is almost clever enough to be devious. Good stuff. I would have hidden it in one of the air generator things.  
 I tried to get a vanilla glimpse by plunging off the edge and shit-whipping my camera downward. I figured with my 16:10 monitor, I could see it in the distant corner of my screen, but it's well-and-truly out of sight. If this cube were a sun, I feel like the mappers' wax wings would be going _just a bit_ soft.  
 ![Image](/AAC_CW4_2.jpg){: width="600" }
 _More space junk._
