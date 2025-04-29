@@ -1,5 +1,6 @@
 ---
 title: The Tools of My Trade
+layout: post
 date: 2024-12-07 3:36:00 +0000
 categories: [ffxiv]
 tags: [info]
