@@ -34,7 +34,7 @@ _I would love to meet the thing that is capable of charging a JO Crystal of this
 
 ### Chlorophosvault and Fluffcourt
 Out the backside of the Briar, and connected by Cosmorail, we have the **Chlorophosvault**, a mangling of three words (two of which pertain to plants, so you know without even looking at the below image that this cavern is rich in xenoflora).  
-Packed with fungi, moss, and those Spongois that the Loporrits decided the best extermination method is to drive a Tonka Truck through them. And if the upper half of the chamber looks distinctly fuzzier than the bottom, you're not wrong. In fact, that area is named the **Fluffcourt**, for the large [Cloud Mallow like growths](https://ffxiv.consolegameswiki.com/wiki/Cloud_Mallow) .
+Packed with fungi, moss, and those Spongois that the Loporrits decided the best extermination method is to drive a Tonka Truck through them. And if the upper half of the chamber looks distinctly fuzzier than the bottom, you're not wrong. In fact, that area is named the **Fluffcourt**, for the large [Cloud Mallow-like growths](https://ffxiv.consolegameswiki.com/wiki/Cloud_Mallow).
 ![Image](/CE_6.jpg){: width="600" }
 _There are three colours in this area and I'm not much of a fan of any of them. It's a nice switchback, though._
 
@@ -54,7 +54,7 @@ Recalling back to the Hub and going dead south past the **Rock Slide**, and goin
 _The other 50 percent. Bear in mind that I am still in-bounds at this point. You can walk here yourself if you want to rub your face against a Big Nothing._
 
 ### Piercingway's Tunnel
-If we stick our faces through the Big Nothing, we find the aptly-named **Piercingway Tunnel.** I assume they're called that out of a love of boring holes in rocks, and not through inflicting bodily harm. Although I'm now picturing a bunny with earstuds and nose-rings, and that's pretty fucking goth.
+If we stick our faces through the Big Nothing, we find the aptly-named **Piercingway's Tunnel.** I assume they're called that out of a love of boring holes in rocks, and not through inflicting bodily harm. Although I'm now picturing a bunny with earstuds and nose-rings, and that's pretty fucking goth.
 ![Image](/CE_10.jpg){: width="600" }
 _A view from the backside...piercing._
 
