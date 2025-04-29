@@ -1,6 +1,6 @@
 ---
 title: "Sinus Ardorum Spectacular!"
-layout: [post]
+layout: post
 date: 2025-04-29 01:20:00 -0000
 toc: true
 categories: [ffxiv]
