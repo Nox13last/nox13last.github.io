@@ -1,9 +1,9 @@
 ---
 title: "Sinus Ardorum Spectacular!"
 layout: post
-date: 2025-04-29 01:20:00 -0000
+date: 2025-04-28 23:30:00
 toc: true
-categories: [ffxiv]
+categories: ffxiv
 tags: [scenery, unused area]
 comments: enabled
 ---
