@@ -64,7 +64,7 @@ Welcome to **Gleamslope**! A relatively much smaller area. One big crater, in fa
 _A gulch of potential._
 ![Image](/CE_12.jpg){: width="600" }
 _From above._
-*Although*, the lowest-most pond on the above photo is actually visible from our present-day map. This smudge here, in fact.  
+*Although*, the lowest-most pond on the above photo is actually visible from our present-day map. This bean-shaped smudge here, in fact.  
 ![Image](/CE_13.jpg)
 _No, it's not a coffee stain._
 
