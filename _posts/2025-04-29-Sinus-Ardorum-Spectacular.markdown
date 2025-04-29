@@ -68,7 +68,7 @@ _From above._
 ![Image](/CE_13.jpg)
 _No, it's not a coffee stain._
 
-##Heimdall Debris
+## Heimdall Debris
 Moving on, we have what looks like a fragment of Dalamud thrown particularly far. It has the name, **Heimdall Debris**. While this fragment is non-interactive, it is certainly significant. And if CBU3's loc-team have any balls, they'll make a joke about it recording the Ethyrians making moonfall.
 ![Image](/CE_14.jpg){: width="600" }
 _Get it? Because Heimdallr is supposed to watch for Ragnarök?_
