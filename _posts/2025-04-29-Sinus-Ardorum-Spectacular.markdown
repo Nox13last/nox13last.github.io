@@ -1,7 +1,7 @@
 ---
 title: "Sinus Ardorum Spectacular!"
 layout: post
-date: 2025-04-28 23:30:00
+date: 2025-04-29 00:30:00
 toc: true
 categories: ffxiv
 tags: [scenery, unused area]
@@ -64,8 +64,9 @@ Welcome to **Gleamslope**! A relatively much smaller area. One big crater, in fa
 _A gulch of potential._
 ![Image](/CE_12.jpg){: width="600" }
 _From above._
-*Although*, the lowest-most pond on the above photo is actually visible from our present-day map. This smudge here, in fact.
+*Although*, the lowest-most pond on the above photo is actually visible from our present-day map. This smudge here, in fact.  
 ![Image](/CE_13.jpg)
+_No, it's not a coffee stain._
 
 ##Heimdall Debris
 Moving on, we have what looks like a fragment of Dalamud thrown particularly far. It has the name, **Heimdall Debris**. While this fragment is non-interactive, it is certainly significant. And if CBU3's loc-team have any balls, they'll make a joke about it recording the Ethyrians making moonfall.
