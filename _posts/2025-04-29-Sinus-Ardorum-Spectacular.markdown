@@ -7,6 +7,9 @@ categories: ffxiv
 tags: [scenery, unused area]
 comments: enabled
 ---
+> Piercingway's Tunnel and Gleamslope are no longer "unused content". Unless you're one of the laggards from Dynamis. Ha!
+{: .prompt-info }
+
 Trust me, when you're here, you get *a lot of time* to let your freecam wander. For the uninitiated, a quick explanation: After completing the flagship *Endwalker* quest, the moon-bnuuys want to start colonising outer space, and start by colonising their doorstep. Sinus Ardorum is a group restoration effort (a la **Ishgardian Restoration**) with an interspersement of actual gameplay. As the [server reaches new checkpoints](https://na.finalfantasyxiv.com/lodestone/cosmic_exploration/report/), new facilities become available. I guess, in future, entire new regions will become available. If you're not content with busy work, good work being its own reward, and a general sensation of community, this place will be **insufferable** to you.  
 
 ## Weddingway's Bower
