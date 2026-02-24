@@ -37,8 +37,8 @@ Yes. This is insanely against the TOS. and I'm sure Squeenix would be mad at me 
 I hope they *won't* be mad. This is a project of weird, arcane passion and genuine respect for the game. I am a Mentor and I wear the crown honestly. If you want to reach me in game:
 
 
-**Name:** [Nox'edwin Tepes](https://na.finalfantasyxiv.com/lodestone/character/32832120/)  
-**Server:** Jenova (Aether)
+**Name:** [Nox'edwin Tepes](https://eu.finalfantasyxiv.com/lodestone/character/32832120/)  
+**Server:** Kraken (Dynamis)
 
 
 ## Afterword
